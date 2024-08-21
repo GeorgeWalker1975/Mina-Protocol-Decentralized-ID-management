@@ -33,3 +33,5 @@ zkapp-cli deploy
 ```
 npm start
 ```
+
+The application will be available at http://localhost:3000, where users can create and manage their DIDs.
