@@ -4,7 +4,9 @@ An application on Mina Protocol that allows users to create and manage decentral
 # To create a project on Mina Protocol, install the necessary tools:
 
 1. Install zkApp CLI (if not installed):
+'''
 npm install -g zkapp-cli
+'''
 
 2. Create new project:
 zkapp-cli create my-did-app
